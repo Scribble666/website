@@ -1,0 +1,10 @@
+touch index.html style.css backend.py 
+mkdir Secret
+cd Secret
+touch Geheimnisse.txt
+cd ..
+mkdir Bilder
+cd Bilder
+touch Bild1.jpg Bild2.jpg Bild3.jpg Bild1.png Bild2.png
+cd ..
+touch .gitignore
